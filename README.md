@@ -1,2 +1,14 @@
 # top-hupu-notes
-HTML page archive and documentation
+
+HTML 页面维护仓库
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 文件组成
+
+- `.html` 文件为独立页面
+- `README.md` 为仓库基础说明
+
+## 状态说明
+
+页面文件会按任务写入，仓库提交记录可用于查看变化。
